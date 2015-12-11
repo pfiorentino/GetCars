@@ -17,7 +17,6 @@
 
 	$brand = "RE";
 	$model = "817";
-	$page = 1;
 
 	$car = array();
 
@@ -51,18 +50,16 @@
 	}
 
 	function insertInDb($array, $table_name) {
-		$query = 'INSERT INTO '.$table_name.' ('.implode(", ", array_keys($array)).') VALUES ("'.implode('", "', $array).'")';
+		$query = 'INSERT IGNORE INTO '.$table_name.' ('.implode(", ", array_keys($array)).') VALUES ("'.implode('", "', $array).'")';
 		mysql_query($query) or die('Échec de la requête : ' . mysql_error());
 	}
 
-	$previous_element = 0;
-	$current_element = 1;
-	$current = 10;
-	$i =1;
-// while($previous_element != $current)
-// {
-		$previous_element = $current;
-		$url = "http://sra.asso.fr/zendsearch/automobiles/recherche?identifiant&marque=$brand&modele=$model&energie&carrosserie&puissance&form_submit=1&url_recherche=%2Finformations-vehicules%2Fautomobiles%2Frecherche&url_fiche=%2Finformations-vehicules%2Fautomobiles%2Ffiche&itemPerPage=99&f_p=1&page=$i";
+	$previous_car = "";
+	$current_car = "zzz";
+	$page = 1;
+	while($previous_car != $current_car) {
+		$previous_car = $current_car;
+		$url = "http://sra.asso.fr/zendsearch/automobiles/recherche?identifiant&marque=$brand&modele=$model&energie&carrosserie&puissance&form_submit=1&url_recherche=%2Finformations-vehicules%2Fautomobiles%2Frecherche&url_fiche=%2Finformations-vehicules%2Fautomobiles%2Ffiche&itemPerPage=99&f_p=1&page=$page";
 		$result = curl_call($url);
 
 		$doc = new DOMDocument();
@@ -80,7 +77,11 @@
 			$valueRaw = find_elements_by_class("span", "bold", $caract);
 			$value = trim($valueRaw[0]->nodeValue);
 
-			if (strpos($caract->nodeValue, "Carrosserie") !== FALSE){
+			if (strpos($caract->nodeValue, "Code identifiant") !== FALSE){
+				$car["internal_id"] = $value;
+				$current_car = $value;
+				pr($previous_car." - ".$current_car);
+			} else if (strpos($caract->nodeValue, "Carrosserie") !== FALSE){
 				$car["doors"] = $value;
 			} else if (strpos($caract->nodeValue, "Énergie") !== FALSE){
 				$car["fuel_type"] = $value;
@@ -107,8 +108,8 @@
 
 		pr($car);
 		insertInDb($car, "cars");
-		//$i++;
-	//}
+		$page++;
+	}
 
 
 
