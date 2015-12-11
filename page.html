@@ -1,0 +1,359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title></title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta property="og:title" content="SRA" />
+<meta property="og:url" content="http://sra.dev.klee.lan.net/" />
+<meta property="Content-Type" content="text/html; charset=UTF-8" /><!--[if lte IE 7]> <link href="/static/css/style_ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if lte IE 6]> <link href="/static/css/style_ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="/static/css/jquery.ui.selectmenu.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/static/css/jquery.popin.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/static/css/style_zend.css" media="screen" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/static/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/static/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/static/js/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/static/js/jquery.popin.js"></script>
+<script type="text/javascript" src="/static/js/jquery.ui.selectmenu.js"></script>
+<script type="text/javascript" src="/static/js/jquery-ui-1.8.18.custom.min.js"></script>
+<script type="text/javascript" src="/static/js/scripts.js"></script>	</head>
+	
+	<body>
+		<div class="t_d_r_z_r"></div>
+
+<h1 class="titre">Recherchez parmi <span class="orange">94073</span> automobiles</h1>
+<!-- Début Selection -->
+<div class="selection">
+	<div class="top"><div></div></div>
+	<div class="selection_inner">
+		Faites une recherche dans la base de données automobile à partir du code identifiant du véhicule ou de ses caractéristiques : 	</div>
+	<div class="bottom"><div></div></div>
+</div>
+<!-- Fin Selection -->
+<!-- Début Formulaire Recherche -->
+<form method="get" action="/informations-vehicules/automobiles/recherche?identifiant=&marque=&modele=&energie=&carrosserie=&puissance=&form_submit=1&url_recherche=%2Finformations-vehicules%2Fautomobiles%2Frecherche&url_fiche=%2Finformations-vehicules%2Fautomobiles%2Ffiche&itemPerPage=99&a_f=1" id="form-details" class="form_search">
+	<div>
+		<div class="search_inner">
+			<div class="search1">
+				<label for="identifiant">Code identifiant</label> 
+				<div class="champ_text">
+					<input class="uppercase" type="text" value="" id="identifiant" name="identifiant"/>
+					<div class="champ_inner"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="search2">
+				<div class="legend">
+					<span class="legend-content">OU</span>
+				</div>
+				<div class="bloc_bleu">
+					<div class="top"><div></div></div>
+						<div class="bloc_bleu_inner">
+															<div class="alert"><img alt="" src="/static/images/picto_alerte.gif"/>Le champ [Code identifiant] OU les champs [Marque] et [Modèle] doivent être renseignés.</div>
+														<div class="vehicule">
+								<div class="label">
+									<label for="marque"><span class="champ-obligatoire">*</span> Marque</label> <label for="modele"><span class="champ-obligatoire">*</span> Modèle</label>
+									<div class="clear"></div>
+								</div>
+								<label for="Véhicule" class="obligatoire">Véhicule</label>
+								<select name="marque" id="marque" class="select4">
+																														<option value="" selected="selected">Choisissez dans la liste</option>
+																					<option value="AK" >ALEKO</option>
+																					<option value="AR" >ALFA ROMEO</option>
+																					<option value="AL" >ALPINE RENAULT</option>
+																					<option value="AO" >ARO</option>
+																					<option value="AA" >ASIA</option>
+																					<option value="AM" >ASTON MARTIN</option>
+																					<option value="AU" >AUDI</option>
+																					<option value="AN" >AUSTIN</option>
+																					<option value="AB" >AUTOBIANCHI</option>
+																					<option value="AV" >AUVERLAND</option>
+																					<option value="BE" >BEDFORD</option>
+																					<option value="BC" >BENTLEY</option>
+																					<option value="BT" >BERTONE</option>
+																					<option value="BM" >BMW</option>
+																					<option value="BK" >BUICK</option>
+																					<option value="CA" >CADILLAC</option>
+																					<option value="CV" >CHEVROLET</option>
+																					<option value="CH" >CHRYSLER</option>
+																					<option value="CI" >CITROEN</option>
+																					<option value="CB" >COURB</option>
+																					<option value="DC" >DACIA</option>
+																					<option value="DW" >DAEWOO</option>
+																					<option value="DF" >DAF</option>
+																					<option value="DH" >DAIHATSU</option>
+																					<option value="DM" >DAIMLER</option>
+																					<option value="DA" >DATSUN</option>
+																					<option value="DG" >DODGE</option>
+																					<option value="DS" >DS</option>
+																					<option value="EB" >EBRO</option>
+																					<option value="FI" >FIAT</option>
+																					<option value="FK" >FISKER</option>
+																					<option value="FO" >FORD</option>
+																					<option value="FP" >FSO-POLSKI</option>
+																					<option value="GC" >GAC GONOW</option>
+																					<option value="GM" >GME</option>
+																					<option value="GR" >GRANDIN</option>
+																					<option value="HO" >HONDA</option>
+																					<option value="HD" >HYUNDAI</option>
+																					<option value="IF" >INFINITI</option>
+																					<option value="IN" >INNOCENTI</option>
+																					<option value="IS" >ISUZU</option>
+																					<option value="IU" >IVECO</option>
+																					<option value="JA" >JAGUAR</option>
+																					<option value="JP" >JEEP</option>
+																					<option value="KA" >KIA</option>
+																					<option value="LD" >LADA</option>
+																					<option value="LA" >LANCIA</option>
+																					<option value="LR" >LAND ROVER</option>
+																					<option value="LL" >LDV</option>
+																					<option value="LX" >LEXUS</option>
+																					<option value="LO" >LOTUS</option>
+																					<option value="MH" >MAHINDRA</option>
+																					<option value="MA" >MARUTI</option>
+																					<option value="MS" >MASERATI</option>
+																					<option value="MT" >MATRA</option>
+																					<option value="MZ" >MAZDA</option>
+																					<option value="MC" >MCC</option>
+																					<option value="MM" >MEGA</option>
+																					<option value="ME" >MERCEDES</option>
+																					<option value="MG" >MG</option>
+																					<option value="IA" >MIA</option>
+																					<option value="MN" >MINI</option>
+																					<option value="MI" >MITSUBISHI</option>
+																					<option value="NA" >NISSAN</option>
+																					<option value="OP" >OPEL</option>
+																					<option value="PA" >PANHARD</option>
+																					<option value="PE" >PEUGEOT</option>
+																					<option value="PI" >PIAGGIO</option>
+																					<option value="PC" >PONTIAC</option>
+																					<option value="PO" >PORSCHE</option>
+																					<option value="PR" >PROTON</option>
+																					<option value="RE" >RENAULT</option>
+																					<option value="RO" >ROVER</option>
+																					<option value="SB" >SAAB</option>
+																					<option value="SA" >SANTANA</option>
+																					<option value="SE" >SEAT</option>
+																					<option value="SK" >SKODA</option>
+																					<option value="ST" >SMART</option>
+																					<option value="SG" >SSANGYONG</option>
+																					<option value="SR" >SUBARU</option>
+																					<option value="SU" >SUNBEAM</option>
+																					<option value="SZ" >SUZUKI</option>
+																					<option value="TA" >TALBOT</option>
+																					<option value="TT" >TATA</option>
+																					<option value="TL" >TESLA</option>
+																					<option value="TK" >THINK</option>
+																					<option value="TO" >TOYOTA</option>
+																					<option value="TR" >TRIUMPH</option>
+																					<option value="UM" >UMM</option>
+																					<option value="VW" >VOLKSWAGEN</option>
+																					<option value="VO" >VOLVO</option>
+																					<option value="ZA" >ZASTAVA</option>
+																					<option value="ZZ" >ZAZ</option>
+																											</select>
+								
+								<select name="modele" id="modele" class="select4">
+																			<option value="">Choisissez dans la liste</option>
+																	</select>
+								<label class="hidden" for="modele"></label>
+							</div>
+							
+							<div class="facultatif">
+								<div class="label">
+									<label for="energie">Énergie</label> <label for="carrosserie">Carrosserie</label> <label for="puissance">Puissance administrative</label>
+									<div class="clear"></div>
+								</div>
+								<span class="item">Facultatif</span>
+								<select name="energie" id="energie" class="select4">
+																			<option value="">Toutes les énergies</option>
+																	</select>
+								
+								<select name="carrosserie" id="carrosserie" class="select4">
+																			<option value="">Toutes les carrosseries</option>
+																	</select>
+
+								<select name="puissance" id="puissance" class="select4">
+																			<option value="">Toutes les puissances</option>
+																	</select>
+							</div>
+						</div>
+					<div class="bottom"><div></div></div>
+				</div>
+			</div>
+		</div>
+		<div class="bouton">
+			<input type="button" class="btn_reset" id="btn-reset" value=""/> 
+			<input type="submit" class="btn_search" value="" id="btn-rechercher"/>
+			<input type="hidden" name="form_submit" value="1" />
+		</div>
+	</div>
+</form>
+<!-- Fin Formulaire Recherche -->
+
+<script type="text/javascript">
+//<![CDATA[
+
+var host = "/zendsearch";
+
+function getDatas(listname) {
+	jQuery.ajax({
+		type: 'POST',
+		url: host + "/automobiles/xhr-get-datas",
+		data: {
+			type: listname,
+			marque: jQuery('#marque').val(),
+			modele: jQuery('#modele').val(),
+			energie: jQuery('#energie').val(),
+			carrosserie: jQuery('#carrosserie').val(),
+			puissance: jQuery('#puissance').val()
+		},
+		success: function(data) {
+			if (data.success) {
+				listeOptions = "";
+				for (i = 0; i < data.view.length; i++) {
+					selected = '';
+					if (data.view[i].key == jQuery('#' + listname).val()) {
+						selected = 'selected="selected"';
+					}
+					listeOptions += "<option value=\"" + data.view[i].key + "\" " + selected + ">" + data.view[i].value + "</option>";
+				}
+				jQuery("#" + listname).html(listeOptions);
+				jQuery("#" + listname).selectmenu();
+				jQuery("#" + listname).selectmenu('enable');
+			}
+		}
+	});
+}
+
+function desactiverChampsRechercheFacultative() {
+	// Desactivation des champs du fieldset <facultatif>
+	jQuery("#energie").html("<option value=\"\">Toutes les énergies</option>");
+	jQuery("#energie").selectmenu();
+	jQuery("#energie").selectmenu('disable');
+
+	jQuery("#carrosserie").html("<option value=\"\">Toutes les carrosseries</option>");
+	jQuery("#carrosserie").selectmenu();
+	jQuery("#carrosserie").selectmenu('disable');
+
+	jQuery("#puissance").html("<option value=\"\">Toutes les puissances</option>");
+	jQuery("#puissance").selectmenu();
+	jQuery("#puissance").selectmenu('disable');
+}
+
+function chargerAutresDonnees() {
+	getDatas('energie');
+	getDatas('carrosserie');
+	getDatas('puissance');
+}
+
+jQuery(document).ready(function() {	
+	contentBreadcrumb = jQuery('.breadcrumb').html();
+	jQuery('.breadcrumb').html(contentBreadcrumb + ' > <a href=\"/informations-vehicules/automobiles/recherche\">Automobile</a> > <span style=\"font-weight: bold;\">Recherche</span>')
+
+	if (jQuery('#marque').val() == '') {
+		jQuery('#modele').selectmenu('disable');
+	}
+
+	if (jQuery('#modele').val() == '') {
+		jQuery('#energie').selectmenu('disable');
+		jQuery('#carrosserie').selectmenu('disable');
+		jQuery('#puissance').selectmenu('disable');
+	}
+
+	// Changement d'option dans la liste deroulante marque
+	jQuery("#marque").change(function() {		
+		if (jQuery(this).val() != '') {
+			// Recuperation de la liste des modeles
+			getDatas('modele');
+		} else {
+			jQuery("#modele").html("<option value=\"\">Choisissez dans la liste</option>");
+			jQuery("#modele").selectmenu();
+			jQuery("#modele").selectmenu('disable');
+		}
+
+		// Desactivation de la recherche facultative
+		desactiverChampsRechercheFacultative();
+	});
+
+	// Changement d'option dans la liste deroulante modele
+	jQuery('#modele').change(function() {
+		if (jQuery(this).val() != "") {
+			getDatas('energie');
+			getDatas('carrosserie');
+			getDatas('puissance');
+		} else {
+			desactiverChampsRechercheFacultative();
+		}
+	});
+
+	// Changement d'option dans la liste deroulante energie
+	jQuery('#energie').change(function() {
+		chargerAutresDonnees();
+	});
+
+	// Changement d'option dans la liste deroulante carrosserie
+	jQuery('#carrosserie').change(function() {
+		chargerAutresDonnees();
+	});
+
+	// Changement d'option dans la liste deroulante puissance
+	jQuery('#puissance').change(function() {
+		chargerAutresDonnees();
+	});
+
+	// Bouton reset
+	jQuery('#btn-reset').click(function(event) {
+		event.preventDefault();
+
+		jQuery('#identifiant').val('Code identifiant');
+		
+		jQuery('#marque').val('');
+		jQuery('#marque').selectmenu();
+		
+		jQuery('#modele').val('');
+		jQuery('#modele').selectmenu();
+		
+		jQuery('#energie').val('');
+		jQuery('#energie').selectmenu();
+		
+		jQuery('#carrosserie').val('');
+		jQuery('#carrosserie').selectmenu();
+		
+		jQuery('#puissance').val('');
+		jQuery('#puissance').selectmenu();
+	});
+
+	jQuery("#form-details").submit(function() {
+		if (jQuery("#identifiant").val() == "Code identifiant") {
+			jQuery("#identifiant").val("");
+		}
+	});
+
+	jQuery("#btn-rechercher").click(function(event) {
+		event.preventDefault();
+
+		identifiant = jQuery("#identifiant").val();
+
+		if (identifiant != "" && identifiant != "Code identifiant") {
+			jQuery.ajax({
+				type: 'POST',
+				url: host + "/automobiles/xhr-get-vehicule",
+				data: {
+					identifiant: identifiant
+				},
+				success: function(data) {
+					if (data) {
+						jQuery('#form-details').attr('action', "/informations-vehicules/automobiles/fiche?identifiant=&marque=&modele=&energie=&carrosserie=&puissance=&form_submit=1&url_recherche=%2Finformations-vehicules%2Fautomobiles%2Frecherche&url_fiche=%2Finformations-vehicules%2Fautomobiles%2Ffiche&itemPerPage=99");
+					}
+			
+					jQuery('#form-details').submit();
+				}
+			});
+		} else {
+			jQuery('#form-details').submit();
+		}
+	});
+});
+
+//]]>
+</script> 	</body>
+</html>
