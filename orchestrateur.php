@@ -16,7 +16,7 @@ private $dbh;
 
 
     function proceed(){
-        $this->razTasks();
+        // $this->razTasks();
         $isTasks = true;
         while($isTasks){
             $task = $this->getNewTask();
