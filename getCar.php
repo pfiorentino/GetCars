@@ -1,11 +1,14 @@
 <?php
-	error_reporting(-1);
-	ini_set('display_errors', 'On');
+	// error_reporting(-1);
+	// ini_set('display_errors', 'On');
+
+	error_reporting(0);
+	ini_set('display_errors', 'Off');
 
 	function pr($data) {
-		echo "<pre>";
+		//echo "<pre>";
 		print_r($data);
-		echo "</pre>";
+		//echo "</pre>";
 	}
 
 	function vd($data) {
@@ -15,8 +18,14 @@
 	}
 
 
-	$brand = "RE";
-	$model = "817";
+	// $brand = "RE";
+	// $model = "817";
+	$brand = $argv[1];
+	$model = $argv[2];
+
+	if (empty($brand) || empty($model)){
+		die("invalid params\n");
+	}
 
 	$car = array();
 
@@ -55,12 +64,13 @@
 	}
 
 	$previous_car = "";
-	$current_car = "zzz";
+	$current_car = "";
 	$page = 1;
-	while($previous_car != $current_car) {
+	do {
 		$previous_car = $current_car;
 		$url = "http://sra.asso.fr/zendsearch/automobiles/recherche?identifiant&marque=$brand&modele=$model&energie&carrosserie&puissance&form_submit=1&url_recherche=%2Finformations-vehicules%2Fautomobiles%2Frecherche&url_fiche=%2Finformations-vehicules%2Fautomobiles%2Ffiche&itemPerPage=99&f_p=1&page=$page";
 		$result = curl_call($url);
+
 
 		$doc = new DOMDocument();
 		$doc->loadHTML($result);
@@ -70,7 +80,7 @@
 		$explodedTitle = explode(" - ", $titleValue);
 		$car["brand"] = $explodedTitle[0];
 		$car["model"] = $explodedTitle[1];
-		$car["version"] = $explodedTitle[3];
+		$car["version"] = $explodedTitle[count($explodedTitle)-1];
 
 		$caracts = find_elements_by_class("td", "bandeau", $doc);
 		foreach ($caracts as $caract) {
@@ -80,7 +90,6 @@
 			if (strpos($caract->nodeValue, "Code identifiant") !== FALSE){
 				$car["internal_id"] = $value;
 				$current_car = $value;
-				pr($previous_car." - ".$current_car);
 			} else if (strpos($caract->nodeValue, "Carrosserie") !== FALSE){
 				$car["doors"] = $value;
 			} else if (strpos($caract->nodeValue, "Énergie") !== FALSE){
@@ -109,8 +118,7 @@
 		pr($car);
 		insertInDb($car, "cars");
 		$page++;
-	}
+	} while($previous_car != $current_car);
 
-
-
-
+	$query = "UPDATE `tasks` SET status = 'DONE' WHERE brand = '$brand' AND model = '$model'";
+	mysql_query($query);
