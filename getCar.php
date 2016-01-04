@@ -2,8 +2,10 @@
 	// error_reporting(-1);
 	// ini_set('display_errors', 'On');
 
-	error_reporting(0);
-	ini_set('display_errors', 'Off');
+	// error_reporting(0);
+	// ini_set('display_errors', 'Off');
+
+	error_reporting(E_ERROR | E_PARSE);
 
 	function pr($data) {
 		//echo "<pre>";
@@ -46,7 +48,6 @@
 	}
 
 	function find_elements_by_class($element_name, $class_name, $dom_document) {
-		$result;
 		foreach ($dom_document->getElementsByTagName($element_name) as $node) {
 
 			$class_value = $node->getAttribute("class");
@@ -71,54 +72,63 @@
 		$url = "http://sra.asso.fr/zendsearch/automobiles/recherche?identifiant&marque=$brand&modele=$model&energie&carrosserie&puissance&form_submit=1&url_recherche=%2Finformations-vehicules%2Fautomobiles%2Frecherche&url_fiche=%2Finformations-vehicules%2Fautomobiles%2Ffiche&itemPerPage=99&f_p=1&page=$page";
 		$result = curl_call($url);
 
+		if ($result){
+			$doc = new DOMDocument();
+			$doc->loadHTML($result);
 
-		$doc = new DOMDocument();
-		$doc->loadHTML($result);
+			$title = find_elements_by_class("h1", "titre", $doc);
+			$titleValue = trim(find_elements_by_class("span", "orange", $title[0])[0]->nodeValue);
+			$explodedTitle = explode(" - ", $titleValue);
+			$car["brand"] = $explodedTitle[0];
+			$car["model"] = $explodedTitle[1];
+			$car["version"] = $explodedTitle[count($explodedTitle)-1];
 
-		$title = find_elements_by_class("h1", "titre", $doc);
-		$titleValue = trim(find_elements_by_class("span", "orange", $title[0])[0]->nodeValue);
-		$explodedTitle = explode(" - ", $titleValue);
-		$car["brand"] = $explodedTitle[0];
-		$car["model"] = $explodedTitle[1];
-		$car["version"] = $explodedTitle[count($explodedTitle)-1];
+			$caracts = find_elements_by_class("td", "bandeau", $doc);
+			foreach ($caracts as $caract) {
+				$valueRaw = find_elements_by_class("span", "bold", $caract);
+				$value = trim($valueRaw[0]->nodeValue);
 
-		$caracts = find_elements_by_class("td", "bandeau", $doc);
-		foreach ($caracts as $caract) {
-			$valueRaw = find_elements_by_class("span", "bold", $caract);
-			$value = trim($valueRaw[0]->nodeValue);
-
-			if (strpos($caract->nodeValue, "Code identifiant") !== FALSE){
-				$car["internal_id"] = $value;
-				$current_car = $value;
-			} else if (strpos($caract->nodeValue, "Carrosserie") !== FALSE){
-				$car["doors"] = $value;
-			} else if (strpos($caract->nodeValue, "Énergie") !== FALSE){
-				$car["fuel_type"] = $value;
-			} else if (strpos($caract->nodeValue, "Génération") !== FALSE){
-				$car["generation"] = $value;
-			} else if (strpos($caract->nodeValue, "Puiss. admin.") !== FALSE){
-				$car["rated_hp"] = $value;
+				if (strpos($caract->nodeValue, "Code identifiant") !== FALSE){
+					$car["internal_id"] = $value;
+					$current_car = $value;
+				} else if (strpos($caract->nodeValue, "Carrosserie") !== FALSE){
+					$car["doors"] = $value;
+				} else if (strpos($caract->nodeValue, "Énergie") !== FALSE){
+					$car["fuel_type"] = $value;
+				} else if (strpos($caract->nodeValue, "Génération") !== FALSE){
+					$car["generation"] = $value;
+				} else if (strpos($caract->nodeValue, "Puiss. admin.") !== FALSE){
+					$car["rated_hp"] = $value;
+				}
 			}
+
+			$gearboxCaracts = find_elements_by_class("td", "w50", $doc);
+			foreach ($gearboxCaracts as $gearboxCaract) {
+				$valueRaw = find_elements_by_class("span", "bold", $gearboxCaract);
+				$value = trim($valueRaw[0]->nodeValue);
+
+				if (strpos($gearboxCaract->nodeValue, "Type Mines") !== FALSE){
+					$car["mines_type"] = $value;
+				} else if (strpos($gearboxCaract->nodeValue, "Type") !== FALSE){
+					$car["gearbox"] = $value;
+				} else if (strpos($gearboxCaract->nodeValue, "Nombre de rapports") !== FALSE){
+					$car["gearbox"] .= " - ".$value." rapports";
+				}
+			}
+
+			pr($car);
+			insertInDb($car, "cars");
+		} else {
+			echo "ERROR result is empty for page ".$url."\n\n";
 		}
 
-		$gearboxCaracts = find_elements_by_class("td", "w50", $doc);
-		foreach ($gearboxCaracts as $gearboxCaract) {
-			$valueRaw = find_elements_by_class("span", "bold", $gearboxCaract);
-			$value = trim($valueRaw[0]->nodeValue);
-
-			if (strpos($gearboxCaract->nodeValue, "Type Mines") !== FALSE){
-				$car["mines_type"] = $value;
-			} else if (strpos($gearboxCaract->nodeValue, "Type") !== FALSE){
-				$car["gearbox"] = $value;
-			} else if (strpos($gearboxCaract->nodeValue, "Nombre de rapports") !== FALSE){
-				$car["gearbox"] .= " - ".$value." rapports";
-			}
-		}
-
-		pr($car);
-		insertInDb($car, "cars");
 		$page++;
 	} while($previous_car != $current_car);
 
 	$query = "UPDATE `tasks` SET status = 'DONE' WHERE brand = '$brand' AND model = '$model'";
 	mysql_query($query);
+
+	echo "\n";
+	echo "====================";
+	echo " JOB ENDED ";
+	echo "====================";

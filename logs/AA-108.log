@@ -1,0 +1,65 @@
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ASIA
+    [model] => ROCSTA
+    [version] => 2.2 GT SOFT TOP
+    [doors] => VEHICULE TOUT CHEMIN
+    [generation] => -
+    [internal_id] => AA01002
+    [rated_hp] => 9
+    [fuel_type] => GASOIL
+    [mines_type] => CA2225
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ASIA
+    [model] => ROCSTA
+    [version] => 2.2 DX SOFT TOP
+    [doors] => VEHICULE TOUT CHEMIN
+    [generation] => -
+    [internal_id] => AA01001
+    [rated_hp] => 9
+    [fuel_type] => GASOIL
+    [mines_type] => CA2225
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ASIA
+    [model] => ROCSTA
+    [version] => 2.2 DX SOFT TOP
+    [doors] => VEHICULE TOUT CHEMIN
+    [generation] => -
+    [internal_id] => AA01001
+    [rated_hp] => 9
+    [fuel_type] => GASOIL
+    [mines_type] => CA2225
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+==================== JOB ENDED ====================

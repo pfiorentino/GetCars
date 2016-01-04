@@ -1,0 +1,483 @@
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.2 V6 JTS 260
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09036
+    [rated_hp] => 18
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.2 JTS 185 SELESPEED
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09035
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.4 JTDM 200 QTRONIC
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09034
+    [rated_hp] => 13
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => AUTOMATIQUE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.4 JTDM 210
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09033
+    [rated_hp] => 13
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0 JTDM 170
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09032
+    [rated_hp] => 9
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 1750 TBI 200
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09031
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.2 V6 JTS Q4 SELECTIVE QTRONIC
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09030
+    [rated_hp] => 19
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => AUTOMATIQUE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.2 V6 JTS Q4 QTRONIC
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09029
+    [rated_hp] => 19
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => AUTOMATIQUE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.2 V6 JTS Q4 SELECTIVE
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09028
+    [rated_hp] => 18
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.2 V6 JTS 260 Q4
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09027
+    [rated_hp] => 18
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.2 V6 JTS Q4 DISTINCTIVE
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09026
+    [rated_hp] => 18
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.2 JTS SELECTIVE
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09025
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.2 JTS 185
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09024
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.2 JTS DISTINCTIVE
+    [doors] => CABRIOLET
+    [generation] => III
+    [internal_id] => AR09023
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0 TS MAESTRIA
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09022
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.2 V6 SELECTIVE
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09021
+    [rated_hp] => 18
+    [fuel_type] => ESSENCE
+    [mines_type] => 916SXB0039
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0 JTS DISTINCTIVE
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09020
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 916SXA0037
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0 TS IMPRESSION
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09019
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S2C0034D
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.0 V6 24V
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09018
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S1B0032
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0 TWIN SPARK 16V
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09017
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S2C0034
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0 TWIN SPARK 16V L
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09016
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S2C0034
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0 TWIN SPARK 16V L
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09015
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S2B0012
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.0 V6 L 12V
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09014
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S100000
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 1.8 TWIN SPARK 16V
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09013
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S300016
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 3.0 V6 L 12V
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09012
+    [rated_hp] => 14
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S1
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => TWIN SPARK 16V L
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09011
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => TWIN SPARK 16V
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09010
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 916S2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09009
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 115A1A
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2.0
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09008
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 115A1
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 1600
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09007
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 11535
+    [gearbox] => MANUELLE - 4 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2000
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09006
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 10524
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2000
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09005
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 10523
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2L QUADRIFOGLIO VERDE
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09004
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 11538
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2L
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09003
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 11538
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 2L
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09002
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 115380
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 1750
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09001
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 10557
+    [gearbox] => MANUELLE - 4 rapports
+)
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => SPIDER
+    [version] => 1750
+    [doors] => CABRIOLET
+    [generation] => -
+    [internal_id] => AR09001
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 10557
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+==================== JOB ENDED ====================

@@ -68,7 +68,7 @@ private $dbh;
 
     function launchWorker($id, $codeMarque, $codeModele){
         echo "Codes : ".$codeMarque." / ".$codeModele."\n";
-        exec("php getCar.php $codeMarque $codeModele &> /dev/null &");
+        exec("php getCar.php $codeMarque $codeModele &> logs/$codeMarque-$codeModele.log &");
         echo "PHP task launched\n";
     }
 

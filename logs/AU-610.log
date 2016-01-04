@@ -1,0 +1,429 @@
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 AMBITION LUXE QUATTRO S TRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33752
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 S LINE QUATTRO S TRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33751
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 BUSINESS LINE QUATTRO S TRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33750
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 AMBIENTE QUATTRO S TRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33749
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 ATTRACTION QUATTRO S TRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33748
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 AMBITION LUXE QUATTRO
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33747
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 S LINE QUATTRO
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33746
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 BUSINESS LINE QUATTRO
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33745
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 AMBIENTE QUATTRO
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33744
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 2.0 TDI 190 ATTRACTION QUATTRO
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33743
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 1.8 TFSI 170 AMBITION LUXE MULTITRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33742
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => VARIATEUR - - rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 1.8 TFSI 170 S LINE MULTITRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33741
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => VARIATEUR - - rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 1.8 TFSI 170 BUSINESS LINE MULTITRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33740
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => VARIATEUR - - rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 1.8 TFSI 170 AMBIENTE MULTITRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33739
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => VARIATEUR - - rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => AVANT 1.8 TFSI 170 ATTRACTION MULTITRONIC
+    [doors] => BREAK 5 PORTES
+    [generation] => -
+    [internal_id] => AU33738
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => VARIATEUR - - rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => V6 3.0 TDI 245 AMBITION LUXE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33737
+    [rated_hp] => 15
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => V6 3.0 TDI 245 S LINE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33736
+    [rated_hp] => 15
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => V6 3.0 TDI 245 BUSINESS LINE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33735
+    [rated_hp] => 15
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => V6 3.0 TDI 245 AMBIENTE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33734
+    [rated_hp] => 15
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 AMBITION LUXE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33733
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 S LINE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33732
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 BUSINESS LINE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33731
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 AMBIENTE QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33730
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 ATTRACTION QUATTRO S TRONIC
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33729
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => SEMI AUTOMATIQUE - 7 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 AMBITION LUXE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33728
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 S LINE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33727
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 BUSINESS LINE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33726
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 AMBIENTE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33725
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 2.0 TDI 190 ATTRACTION QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33724
+    [rated_hp] => 11
+    [fuel_type] => GASOIL
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 1.8 TFSI 170 AMBITION LUXE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33723
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 1.8 TFSI 170 S LINE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33722
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 1.8 TFSI 170 BUSINESS LINE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33721
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => A4 III
+    [version] => 1.8 TFSI 170 AMBIENTE QUATTRO
+    [doors] => BERLINE 4 PORTES
+    [generation] => -
+    [internal_id] => AU33720
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => -
+    [gearbox] => MANUELLE - 6 rapports
+)

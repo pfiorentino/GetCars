@@ -1,0 +1,65 @@
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALPINE RENAULT
+    [model] => A310
+    [version] => V6 GT
+    [doors] => COUPE
+    [generation] => -
+    [internal_id] => AL02002
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => 2700VA
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALPINE RENAULT
+    [model] => A310
+    [version] => V6
+    [doors] => COUPE
+    [generation] => -
+    [internal_id] => AL02001
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => 2700VA
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALPINE RENAULT
+    [model] => A310
+    [version] => V6
+    [doors] => COUPE
+    [generation] => -
+    [internal_id] => AL02001
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => 2700VA
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+==================== JOB ENDED ====================

@@ -1,0 +1,610 @@
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => QUADRIFOGLIO
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19028
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A50
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.8 TS L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19027
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A1A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.6 TS L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19026
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A2B
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.4 TS L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19025
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.4 TS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19024
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => JTD L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19023
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4B
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => JTD
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19022
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4B
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.4 JUNIOR ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19021
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3A0023
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.8 L ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19020
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A1A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.6 L PACK ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19019
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A2C
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.6 L ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19018
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A2C
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.4 L ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19017
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.4 ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19016
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => TD L ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19015
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => TD ABS
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19014
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.8 L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19013
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A1A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.4 L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19012
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.4
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19011
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => TD L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19010
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => TD
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19009
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.6 L
+    [doors] => BERLINE 3 PORTES
+    [generation] => -
+    [internal_id] => AR19008
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A2C
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => QUADRIFOGLIO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19007
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A5
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.3 L
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19006
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.7 16V
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19005
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A1
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => TD L
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19004
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => TD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19003
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 930A4
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.6 L
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19002
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A2A
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.3
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19001
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => ALFA ROMEO
+    [model] => ALFA 145
+    [version] => 1.3
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AR19001
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 930A3
+    [gearbox] => MANUELLE - 5 rapports
+)
+====================JOB ENDED====================

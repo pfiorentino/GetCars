@@ -1,0 +1,2774 @@
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT RS2 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12131
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => BAADU6Q
+    [gearbox] => MANUELLE - 6 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 16S COMPETITION QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12130
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ACE2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT TDI
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12129
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => BA1Z4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TDI
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12128
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => B41Z4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.0E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12127
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABK4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12126
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABK4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.0 16S
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12125
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => BAACE2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0 16S
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12124
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ACE2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT S2 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12123
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABY6Q
+    [gearbox] => MANUELLE - 6 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => S2 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12122
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABY6Q
+    [gearbox] => MANUELLE - 6 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.8E QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12121
+    [rated_hp] => 14
+    [fuel_type] => ESSENCE
+    [mines_type] => BAAAH2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.6E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12120
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABC4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.6E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12119
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABC4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 1.6
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12118
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => BAADA2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1.6
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12117
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ADA2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.3E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12116
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => BANG2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0 LIMITED EDITION
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12115
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT V6 2.6 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12114
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABC2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT V6 2.6
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12113
+    [rated_hp] => 17
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABC4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT V6 2.6
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12112
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABC2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => V6 2.6 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12111
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABC2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => V6 2.6
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12110
+    [rated_hp] => 17
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABC4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => V6 2.6
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12109
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABC2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.3 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12108
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => BANG2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.0E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12107
+    [rated_hp] => 14
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABK4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.0E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12106
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABK2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT TDI
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12105
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => BA1Z2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12104
+    [rated_hp] => 7
+    [fuel_type] => GASOIL
+    [mines_type] => B4AAZ4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => AVANT 2.0S
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU12103
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => BAABT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E LUXE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12102
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E LUXE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12101
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E LUXE QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12100
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12099
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABK4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => V6
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12098
+    [rated_hp] => 17
+    [fuel_type] => ESSENCE
+    [mines_type] => B4AAH4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E CONFORT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12097
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12096
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12095
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => B4AAZ2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TD SPECIAL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12094
+    [rated_hp] => 4
+    [fuel_type] => GASOIL
+    [mines_type] => 89RA2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TD ACTION
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12093
+    [rated_hp] => 4
+    [fuel_type] => GASOIL
+    [mines_type] => 89RA2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1.8S SPECIAL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12092
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 89NE2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => V6 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12091
+    [rated_hp] => 14
+    [fuel_type] => ESSENCE
+    [mines_type] => B4AAH2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => V6
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12090
+    [rated_hp] => 14
+    [fuel_type] => ESSENCE
+    [mines_type] => B4AAH2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E CONFORT QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12089
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12088
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E CONFORT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12087
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12086
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABK2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TDI LUXE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12085
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => B41Z2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.3E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12084
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => B4NG2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12083
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABK2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TDI
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12082
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => B41Z2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0S
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12081
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => B4ABT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => D EVOLUTION
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12080
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 891Y2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => D CONFORT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12079
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 891Y2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12078
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 891Y2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12077
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => 89AAD2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12076
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => 893A2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => QUATTRO 4X4
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12075
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 89DZ2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12074
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 89AAD2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12073
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 893A2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12072
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 89AAD3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12071
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 893A3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1.8E LUXE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12070
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 89DZ2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1.8E CONFORT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12069
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 89DZ2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1,8S CONFORT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12068
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 89NE3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1,8S
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12067
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 89NE3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1.8S EVOLUTION
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12066
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 89NE3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1,8S CONFORT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12065
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 89NE2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1,8S
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12064
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 89NE2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1.8S EVOLUTION
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12063
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 89NE2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => 1,6S
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12062
+    [rated_hp] => 6
+    [fuel_type] => ESSENCE
+    [mines_type] => 89RN2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TURBO D CONFORT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12061
+    [rated_hp] => 4
+    [fuel_type] => GASOIL
+    [mines_type] => 89RA2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12060
+    [rated_hp] => 4
+    [fuel_type] => GASOIL
+    [mines_type] => 89RA2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GTE QUATTRO 4X4
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12059
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DZ24Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => QUATTRO 4X4
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12058
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 81NE22Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => QUATTRO 4X4
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12057
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => 81NE24Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => QUATTRO 4X4
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12056
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => 81KK2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => SC TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12055
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CY2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => SC TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12054
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CY2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GT TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12053
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CY2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CL TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12052
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CY2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12051
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CY2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CC TURBO D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12050
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CY2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12049
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 81JS3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12048
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => 81WN3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12047
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 81WN2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12046
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 81JS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12045
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 81WN3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => SC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12044
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12043
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12042
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12041
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => SC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12040
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => SC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12039
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => LS
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12038
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YP2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12037
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12036
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12035
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12034
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YP2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12033
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12032
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YP2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CD
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12031
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12030
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => L
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12029
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR1
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12028
+    [rated_hp] => 6
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR1
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => L
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12027
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12026
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CLAN
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12025
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12024
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12023
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => BASE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12022
+    [rated_hp] => 5
+    [fuel_type] => GASOIL
+    [mines_type] => 81CR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GTE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12021
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => YS
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GTE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12020
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DZ2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GLE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12019
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YZ1
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GLE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12018
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YZ2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12017
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YP3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12016
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => YP
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12015
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => YPA
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GLS
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12014
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YPA
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12013
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81YP1
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => S
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12012
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => YNA
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => S
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12011
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => YN
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => LS
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12010
+    [rated_hp] => 9
+    [fuel_type] => ESSENCE
+    [mines_type] => YNA
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12009
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DT3
+    [gearbox] => AUTOMATIQUE - 3 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => BASE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12008
+    [rated_hp] => 8
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DT1
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => GT
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12007
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CC
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12006
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81DT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => N
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12005
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81FZ1
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => L
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12004
+    [rated_hp] => 7
+    [fuel_type] => ESSENCE
+    [mines_type] => 81FZ1
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CLAN
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12003
+    [rated_hp] => 5
+    [fuel_type] => ESSENCE
+    [mines_type] => 81EP1A
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 275 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => CL
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12002
+    [rated_hp] => 5
+    [fuel_type] => ESSENCE
+    [mines_type] => 81EP1A
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => BASE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12001
+    [rated_hp] => 5
+    [fuel_type] => ESSENCE
+    [mines_type] => 81EP1A
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+
+Warning: DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 274 in /Users/paul/Workspaces/EPSIProjects/GetCars/getCar.php on line 76
+Array
+(
+    [brand] => AUDI
+    [model] => 80
+    [version] => BASE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU12001
+    [rated_hp] => 5
+    [fuel_type] => ESSENCE
+    [mines_type] => 81EP1A
+    [gearbox] => MANUELLE - 4 rapports
+)
+
+==================== JOB ENDED ====================

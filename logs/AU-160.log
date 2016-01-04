@@ -1,0 +1,468 @@
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06208
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => C4ABK4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.0E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06207
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => CAABK4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => S4 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06206
+    [rated_hp] => 24
+    [fuel_type] => ESSENCE
+    [mines_type] => C4ABH6Q
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.3E QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06205
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => CAAAR2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT TDI
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06204
+    [rated_hp] => 7
+    [fuel_type] => GASOIL
+    [mines_type] => CAAAT4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.0E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06203
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => CAABK4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => TDI PACK
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06202
+    [rated_hp] => 7
+    [fuel_type] => GASOIL
+    [mines_type] => C4AAT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => TDI
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06201
+    [rated_hp] => 7
+    [fuel_type] => GASOIL
+    [mines_type] => C4AAT4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.0E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06200
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => CAABK2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06199
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => C4ABK4
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06198
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => C4ABK2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.3E QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06197
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => C4AAR2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.3E
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06196
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => CAAAR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.3E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06195
+    [rated_hp] => 12
+    [fuel_type] => ESSENCE
+    [mines_type] => C4AAR2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT S4 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06194
+    [rated_hp] => 24
+    [fuel_type] => ESSENCE
+    [mines_type] => CAABH6Q
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.8E V6
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06193
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => CAAAH4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.8 V6
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06192
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => C4AAH4A
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT S4 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06191
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => CAAAN4Q
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => S4 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06190
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => C4AAN4Q
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.6 V6 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06189
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => CAABC2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.6 V6 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06188
+    [rated_hp] => 15
+    [fuel_type] => ESSENCE
+    [mines_type] => C4ABC2Q
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.6 V6
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06187
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => CAABC2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.6 V6
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06186
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => C4ABC2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT 2.8E V6 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06185
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => CAAAH4Q
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.8 V6 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06184
+    [rated_hp] => 16
+    [fuel_type] => ESSENCE
+    [mines_type] => C4AAH4Q
+    [gearbox] => AUTOMATIQUE - 4 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => D
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06183
+    [rated_hp] => 8
+    [fuel_type] => GASOIL
+    [mines_type] => C4AAS2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => TDI
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06182
+    [rated_hp] => 7
+    [fuel_type] => GASOIL
+    [mines_type] => C4AAT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => TDI
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06181
+    [rated_hp] => 10
+    [fuel_type] => GASOIL
+    [mines_type] => C4AAT6
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => TDI LUXE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06180
+    [rated_hp] => 7
+    [fuel_type] => GASOIL
+    [mines_type] => C4AAT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => TDI LUXE
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06179
+    [rated_hp] => 10
+    [fuel_type] => GASOIL
+    [mines_type] => C4AAT6
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT TDI
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06178
+    [rated_hp] => 10
+    [fuel_type] => GASOIL
+    [mines_type] => CAAAT6
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT TDI
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06177
+    [rated_hp] => 7
+    [fuel_type] => GASOIL
+    [mines_type] => CAAAT2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => 2.0E
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06176
+    [rated_hp] => 10
+    [fuel_type] => ESSENCE
+    [mines_type] => C4AAD2
+    [gearbox] => MANUELLE - 5 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT S4 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06175
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => CAAAN6Q
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => S4 QUATTRO
+    [doors] => BERLINE
+    [generation] => -
+    [internal_id] => AU06174
+    [rated_hp] => 13
+    [fuel_type] => ESSENCE
+    [mines_type] => C4AAN6Q
+    [gearbox] => MANUELLE - 6 rapports
+)
+Array
+(
+    [brand] => AUDI
+    [model] => 100
+    [version] => AVANT S4 QUATTRO
+    [doors] => BREAK
+    [generation] => -
+    [internal_id] => AU06173
+    [rated_hp] => 11
+    [fuel_type] => ESSENCE
+    [mines_type] => CAAAN2Q
+    [gearbox] => MANUELLE - 5 rapports
+)

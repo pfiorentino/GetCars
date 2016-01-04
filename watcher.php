@@ -69,7 +69,7 @@
             term_print();
 
             foreach ($tasks_running_results as $key => $value) {
-                term_print($value["brand_label"]." - ".$value["model_label"]);
+                term_array_print(array($value["brand_label"]." - ".$value["model_label"], $value["brand"]." - ".$value["model"]));
             }
         }
         term_print();
