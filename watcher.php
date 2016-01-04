@@ -70,6 +70,11 @@
 
             foreach ($tasks_running_results as $key => $value) {
                 term_array_print(array($value["brand_label"]." - ".$value["model_label"], $value["brand"]." - ".$value["model"]));
+                $cmd_res = exec("tail logs/".$value["brand"]."-".$value["model"].".log 2>&1");
+
+                if (!empty($cmd_res) && $cmd_res != ")"){
+                    term_print(" --> ".$cmd_res);
+                }
             }
         }
         term_print();
