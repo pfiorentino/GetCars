@@ -13,6 +13,7 @@
 
     function term_print($value = "", $center = false) {
         $remaining_chars = 78-strlen($value);
+        echo $remaining_chars;
 
         if ($center){
             echo "|".str_repeat(" ", floor($remaining_chars/2));
