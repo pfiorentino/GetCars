@@ -60,7 +60,7 @@
 	}
 
 	function insertInDb($array, $table_name) {
-		$query = 'INSERT IGNORE INTO '.$table_name.' ('.implode(", ", array_keys($array)).') VALUES ("'.implode('", "', $array).'")';
+		$query = 'INSERT IGNORE INTO '.$table_name.' ('.implode(", ", array_keys($array)).') VALUES ("'.mysql_real_escape_string(implode('", "', $array)).'")';
 		mysql_query($query) or die('Échec de la requête : ' . mysql_error());
 	}
 
@@ -120,6 +120,7 @@
 			insertInDb($car, "cars");
 		} else {
 			echo "ERROR result is empty for page ".$url."\n\n";
+			$current_car = "rand_".rand();
 		}
 
 		$page++;

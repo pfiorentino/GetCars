@@ -73,7 +73,7 @@
                 $cmd_res = exec("tail logs/".$value["brand"]."-".$value["model"].".log 2>&1");
 
                 if (!empty($cmd_res) && $cmd_res != ")"){
-                    term_print(" --> ".$cmd_res);
+                    term_print(" --> ".substr($cmd_res, 0, 70));
                 }
             }
         }
