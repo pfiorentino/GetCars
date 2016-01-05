@@ -42,6 +42,14 @@
         echo "|\n";
     }
 
+    function empty_if_undefined($item) {
+        if (!empty($item)){
+            return $item['brand'].": ".$item['num'];
+        } else {
+            return "";
+        }
+    }
+
     $dbh = new PDO('mysql:host=mysql.montpellier.epsi.fr;port=5206;dbname=cars', "cars_user", "cars34");
 
     $stop = false;
@@ -51,24 +59,28 @@
         $results = (array)$dbh->query($query)->fetchAll();
         $tasks_running_query = "SELECT * FROM tasks WHERE status = 'IS_PROCESSING'";
         $tasks_running_results = (array)$dbh->query($tasks_running_query)->fetchAll();
+
         $cars_query = "SELECT COUNT(id) as cars_number FROM cars";
         $cars_results = (array)$dbh->query($cars_query)->fetchObject();
-
-        system('clear');
-
-        term_head("TASKS");
-        term_print();
+        $count_cars_query = "SELECT brand, count(id) as num FROM `cars` GROUP BY brand ORDER BY num DESC LIMIT 15";
+        $count_cars_result = (array)$dbh->query($count_cars_query)->fetchAll();
 
         $temp_array = array();
         foreach ($results as $key => $value) {
-            $temp_array[] = $value['status'].": ".$value['tasks_number'];
+            $temp_array[] = $value['tasks_number'];
         }
-        term_array_print($temp_array);
+
+        system('clear');
+
+        term_head("TASKS ( ".implode(" | ", $temp_array)." )");
 
         if (count($tasks_running_results) > 0){
             term_print();
 
             foreach ($tasks_running_results as $key => $value) {
+            	// if ($key == count($tasks_running_results)-1)
+            	// 	break;
+
                 term_array_print(array($value["brand_label"]." - ".$value["model_label"], $value["brand"]." - ".$value["model"]));
                 $cmd_res = exec("tail logs/".$value["brand"]."-".$value["model"].".log 2>&1");
 
@@ -83,16 +95,20 @@
 
         echo "\n\n";
 
-        term_head("CARS");
+        term_head("CARS ( ".$cars_results['cars_number']." )");
         term_print();
 
-        term_print("Cars: ".$cars_results['cars_number']);
+        for ($i=0; $i < count($count_cars_result); $i+=3){
+        	term_array_print(array( empty_if_undefined($count_cars_result[$i]),
+        							empty_if_undefined($count_cars_result[$i+1]),
+        							empty_if_undefined($count_cars_result[$i+2])));
+        }
 
         term_print();
         term_head();
-        echo "\n";
 
         //print_r($results);
 
-        usleep(100000);
+        //usleep(100000);
+        sleep(5);
     }

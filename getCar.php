@@ -38,10 +38,23 @@
 
 	function curl_call($url) {
 		$curl_handle=curl_init();
-		curl_setopt($curl_handle, CURLOPT_URL, $url);
-		curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 2);
-		curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);
-		curl_setopt($curl_handle, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2) Gecko/20100115 Firefox/3.6');
+		$defaults = array(
+		        CURLOPT_POST => 1,
+		        CURLOPT_HEADER => 0,
+		        CURLOPT_URL => $url,
+		        CURLOPT_FRESH_CONNECT => 1,
+		        CURLOPT_RETURNTRANSFER => 1,
+		        CURLOPT_FORBID_REUSE => 1,
+		        CURLOPT_TIMEOUT => 4,
+				CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+		    );
+		curl_setopt_array($curl_handle, $defaults);
+
+
+		// curl_setopt($curl_handle, CURLOPT_URL, $url);
+		// curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 2);
+		// curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);
+		// curl_setopt($curl_handle, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)');
 		$content = curl_exec($curl_handle);
 		curl_close($curl_handle);
 		return $content;
@@ -68,18 +81,33 @@
 		mysql_query($query) or die('Échec de la requête : ' . mysql_error());
 	}
 
+	function microtime_float() {
+	    list($usec, $sec) = explode(" ", microtime());
+	    return ((float)$usec + (float)$sec);
+	}
+
 	$previous_car = "";
 	$current_car = "";
 	$page = 1;
 	do {
+		$begin_time = microtime_float();
+		usleep(500000);
 		$previous_car = $current_car;
 		$url = "http://sra.asso.fr/zendsearch/automobiles/recherche?identifiant&marque=$brand&modele=$model&energie&carrosserie&puissance&form_submit=1&url_recherche=%2Finformations-vehicules%2Fautomobiles%2Frecherche&url_fiche=%2Finformations-vehicules%2Fautomobiles%2Ffiche&itemPerPage=99&f_p=1&page=$page";
+		$time1 = microtime_float();
 		$result = curl_call($url);
+		$time2 = microtime_float();
+		echo "CURL query: ".($time2-$time1)."s\n";
 
 		if ($result){
+			$time3 = microtime_float();
 			$doc = new DOMDocument();
 			$doc->loadHTML($result);
+			$time4 = microtime_float();
 
+			echo "DOM loading: ".($time4-$time3)."s\n";
+
+			$time5 = microtime_float();
 			$title = find_elements_by_class("h1", "titre", $doc);
 			$titleValue = trim(find_elements_by_class("span", "orange", $title[0])[0]->nodeValue);
 			$explodedTitle = explode(" - ", $titleValue);
@@ -119,9 +147,15 @@
 					$car["gearbox"] .= " - ".$value." rapports";
 				}
 			}
+			$time6 = microtime_float();
+			echo "DOM parsing: ".($time6-$time5)."s\n";
 
 			pr($car);
+
+			$time7 = microtime_float();
 			insertInDb($car, "cars");
+			$time8 = microtime_float();
+			echo "DB insertion: ".($time8-$time7)."s\n\n";
 		} else {
 			echo "ERROR result is empty for page ".$url."\n\n";
 			$current_car = "rand_".rand();
