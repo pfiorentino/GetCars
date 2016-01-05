@@ -78,8 +78,8 @@
             term_print();
 
             foreach ($tasks_running_results as $key => $value) {
-            	// if ($key == count($tasks_running_results)-1)
-            	// 	break;
+            	if ($key == count($tasks_running_results)-1)
+            		break;
 
                 term_array_print(array($value["brand_label"]." - ".$value["model_label"], $value["brand"]." - ".$value["model"]));
                 $cmd_res = exec("tail logs/".$value["brand"]."-".$value["model"].".log 2>&1");
@@ -109,6 +109,6 @@
 
         //print_r($results);
 
-        //usleep(100000);
-        sleep(5);
+        //usleep(200000);
+        sleep(1);
     }

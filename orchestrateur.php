@@ -42,7 +42,7 @@ private $dbh;
             } else {
                 $this->updateStatus($row['id'], "IS_PROCESSING");
 
-                while($this->getRunningJobCount() > 3){
+                while($this->getRunningJobCount() > 5){
                     sleep(2);
                 }
 
