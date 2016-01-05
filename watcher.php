@@ -19,7 +19,7 @@
             echo $value;
             echo str_repeat(" ", ceil($remaining_chars/2))."|\n";
         } else {
-            echo "| ".$value.str_repeat(" ", $remaining_chars-1)."|";
+            echo "| ".$value.str_repeat(" ", $remaining_chars-1)."|\n";
         }
     }
 
