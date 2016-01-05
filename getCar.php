@@ -60,7 +60,11 @@
 	}
 
 	function insertInDb($array, $table_name) {
-		$query = 'INSERT IGNORE INTO '.$table_name.' ('.implode(", ", array_keys($array)).') VALUES ("'.mysql_real_escape_string(implode('", "', $array)).'")';
+		$clean_array = array();
+		foreach ($array as $key => $value) {
+			$clean_array[] = mysql_real_escape_string($value);
+		}
+		$query = 'INSERT IGNORE INTO '.$table_name.' ('.implode(", ", array_keys($array)).') VALUES ("'.implode('", "', $clean_array).'")';
 		mysql_query($query) or die('Échec de la requête : ' . mysql_error());
 	}
 
