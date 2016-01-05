@@ -38,23 +38,23 @@
 
 	function curl_call($url) {
 		$curl_handle=curl_init();
-		$defaults = array(
-		        CURLOPT_POST => 1,
-		        CURLOPT_HEADER => 0,
-		        CURLOPT_URL => $url,
-		        CURLOPT_FRESH_CONNECT => 1,
-		        CURLOPT_RETURNTRANSFER => 1,
-		        CURLOPT_FORBID_REUSE => 1,
-		        CURLOPT_TIMEOUT => 4,
-				CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
-		    );
-		curl_setopt_array($curl_handle, $defaults);
+		// $defaults = array(
+		//         CURLOPT_POST => 1,
+		//         CURLOPT_HEADER => 0,
+		//         CURLOPT_URL => $url,
+		//         CURLOPT_FRESH_CONNECT => 1,
+		//         CURLOPT_RETURNTRANSFER => 1,
+		//         CURLOPT_FORBID_REUSE => 1,
+		//         CURLOPT_TIMEOUT => 4,
+		// 		CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+		//     );
+		// curl_setopt_array($curl_handle, $defaults);
 
 
-		// curl_setopt($curl_handle, CURLOPT_URL, $url);
-		// curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 2);
-		// curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);
-		// curl_setopt($curl_handle, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)');
+		curl_setopt($curl_handle, CURLOPT_URL, $url);
+		curl_setopt($curl_handle, CURLOPT_CONNECTTIMEOUT, 2);
+		curl_setopt($curl_handle, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($curl_handle, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36');
 		$content = curl_exec($curl_handle);
 		curl_close($curl_handle);
 		return $content;
