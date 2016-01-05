@@ -13,7 +13,7 @@
 
     function term_print($value = "", $center = false) {
         $remaining_chars = 78-strlen($value);
-        echo strlen($value);
+        echo strlen(utf8_decode($value));
         echo $remaining_chars;
 
         if ($center){
